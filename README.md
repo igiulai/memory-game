@@ -23,7 +23,7 @@
 ## Установка и запуск
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/yourusername/memory-game.git
+   git clone https://github.com/igiulai/memory-game.git
    ```
 2. Открыть файл `index.html` в браузере
 
